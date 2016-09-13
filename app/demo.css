@@ -1,0 +1,33 @@
+html, body {
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 1em;
+}
+
+h1 {
+    margin: 0 0 5px 0;
+    padding: 0;
+    font-size: 1.25em;
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
+}
+
+canvas {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.metadata {
+    font-family: Trebuchet, Trebuchet MS, Arial, sans-serif;
+    font-size: 90%;
+    letter-spacing: 0.1em;
+    color: #999999;
+}
